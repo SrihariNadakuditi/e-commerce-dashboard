@@ -75,6 +75,7 @@ STRIPE_WEBHOOK_SECRET=
 
 - you can visit the store here :https://e-commerce-c6x8.vercel.app/
 - github repository: https://github.com/SrihariNadakuditi/e-commerce-store
+- deployment link: https://e-commerce-six-liard.vercel.app/sign-in?redirect_url=https%3A%2F%2Fe-commerce-six-liard.vercel.app%2F
 
 
 ### Connect to Cockroachdb and Push Prisma
