@@ -25,12 +25,6 @@
 
 ## 🚀 Getting Started
 
-Further instructions on setting up the project, database configurations, and other essential steps can be added here.
-
----
-
-This should appear more organized in the README. Ensure you have proper markdown formatting applied when you paste it into your GitHub README file.
-
 
 ### Prerequisites
 
